@@ -1,0 +1,88 @@
+_repo: Ivanhoe--A-Romance_82
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Cleishbotham, Jedediah
+    - Scott, Sir Walter
+    - Malagrowther, Malachi
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: "Ivanhoe /ˈaɪvənˌhoʊ/ is a historical novel by Sir Walter Scott, first\
+  \ published in 1820 in three volumes and subtitled A Romance. Ivanhoe, set in 12th\
+  \ century England, has been credited for increasing interest in romance and medievalism;\
+  \ John Henry Newman claimed Scott \"had first turned men's minds in the direction\
+  \ of the Middle Ages\", while Carlyle and Ruskin made similar assertions of Scott's\
+  \ overwhelming influence over the revival, based primarily on the publication of\
+  \ this novel.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Historical Fiction
+- Best Books Ever Listings
+gutenberg_issued: '2008-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '82'
+  wikidata: Q840974
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anglo-Saxons -- Fiction'
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcsh 'Ivanhoe, Wilfred of, Sir (Fictitious character) -- Fiction'
+- !lcsh 'Jews -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'Normans -- Great Britain -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Great Britain -- History -- Richard I, 1189-1199 -- Fiction'
+- GITenberg
+title: 'Ivanhoe: A Romance'
+url: http://www.gutenberg.org/ebooks/82
+wikipedia:
+- https://fi.wikipedia.org/wiki/Ivanhoe
+- https://fa.wikipedia.org/wiki/%D8%A2%DB%8C%D9%88%D8%A7%D9%86%D9%87%D9%88
+- https://bg.wikipedia.org/wiki/%D0%90%D0%B9%D0%B2%D1%8A%D0%BD%D1%85%D0%BE%D1%83
+- https://vi.wikipedia.org/wiki/Ivanhoe
+- https://en.wikisource.org/wiki/Ivanhoe
+- https://uk.wikipedia.org/wiki/%D0%90%D0%B9%D0%B2%D0%B5%D0%BD%D0%B3%D0%BE
+- https://el.wikipedia.org/wiki/%CE%99%CE%B2%CE%B1%CE%BD%CF%8C%CE%B7%CF%82
+- https://fr.wikisource.org/wiki/Ivanho%C3%A9_(Scott_-_Dumas)
+- https://sv.wikipedia.org/wiki/Ivanhoe
+- https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%9B%E3%83%BC
+- https://pt.wikipedia.org/wiki/Ivanhoe
+- https://es.wikipedia.org/wiki/Ivanhoe
+- https://sco.wikipedia.org/wiki/Ivanhoe
+- https://en.wikipedia.org/wiki/Ivanhoe
+- https://et.wikisource.org/wiki/Ivanhoe
+- https://ru.wikipedia.org/wiki/%D0%90%D0%B9%D0%B2%D0%B5%D0%BD%D0%B3%D0%BE
+- https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%87%E0%A6%AD%E0%A6%BE%E0%A6%A8%E0%A6%B9%E0%A7%8B
+- https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EB%B0%98%ED%98%B8
+- https://et.wikipedia.org/wiki/Ivanhoe
+- https://fr.wikipedia.org/wiki/Ivanho%C3%A9
+- https://zh.wikipedia.org/wiki/%E6%92%92%E5%85%8B%E9%81%9C%E8%8B%B1%E9%9B%84%E5%82%B3
+- https://pl.wikipedia.org/wiki/Ivanhoe
+- https://da.wikipedia.org/wiki/Ivanhoe
+- https://simple.wikipedia.org/wiki/Ivanhoe
+- https://fy.wikipedia.org/wiki/Ivanhoe
+- https://ru.wikiquote.org/wiki/%D0%90%D0%B9%D0%B2%D0%B5%D0%BD%D0%B3%D0%BE
+- https://sr.wikiquote.org/wiki/%D0%90%D1%98%D0%B2%D0%B0%D0%BD%D1%85%D0%BE
+- https://sl.wikisource.org/wiki/Ivanhoe
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%8A%D9%81%D8%A7%D9%86%D9%87%D9%88
+- https://nl.wikipedia.org/wiki/Ivanhoe_(roman)
+- https://cs.wikipedia.org/wiki/Ivanhoe
+- https://de.wikipedia.org/wiki/Ivanhoe
+- https://eu.wikipedia.org/wiki/Ivanhoe
+- https://hy.wikipedia.org/wiki/%D4%B1%D5%B5%D5%BE%D5%A5%D5%B6%D5%B0%D5%B8
+- https://it.wikipedia.org/wiki/Ivanhoe
+- https://no.wikipedia.org/wiki/Ivanhoe
+- https://ca.wikipedia.org/wiki/Ivanhoe_(novel%C2%B7la)
+- https://tr.wikipedia.org/wiki/Ivanhoe
+- https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%99%D7%91%D7%A0%D7%94%D7%95
