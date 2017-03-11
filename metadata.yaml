@@ -1,5 +1,8 @@
 _repo: Ivanhoe--A-Romance_82
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -20,6 +23,8 @@ description: "Ivanhoe /ˈaɪvənˌhoʊ/ is a historical novel by Sir Walter Scot
   \ of the Middle Ages\", while Carlyle and Ruskin made similar assertions of Scott's\
   \ overwhelming influence over the revival, based primarily on the publication of\
   \ this novel.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/82#Ivanhoe--A-Romance
 gutenberg_bookshelf:
 - Historical Fiction
 - Best Books Ever Listings
